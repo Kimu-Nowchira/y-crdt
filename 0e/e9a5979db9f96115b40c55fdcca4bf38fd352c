@@ -1,0 +1,19 @@
+yrs/src/updates/encoder.rs
+  s_a5b3931a68bd1b::t_fba24b6e45f2fd 221
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "0ee9a5979db9f96115b40c55fdcca4bf38fd352c",
+  "prompts": {},
+  "sessions": {
+    "s_a5b3931a68bd1b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1d272-973e-7421-ba4a-4a184ae71b83",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "kimu <hon20ke@naver.com>"
+    }
+  }
+}
